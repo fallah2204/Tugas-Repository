@@ -1,0 +1,84 @@
+ body{
+ font-family: Arial Black;
+ font-size:36px;
+ color:white;
+ background-color: #ccc;
+
+}
+.image {
+    position: absolute;
+    right: 100px;
+    width: 700;
+    margin: 200px;
+    float: left;
+    left: 1;
+}
+.container {
+ float:right;
+ width: 30%;
+ margin-top: 5%;
+ border-radius:15px;
+ margin-left: 35%;
+ background-color: #ccc;
+ padding: 20px 25px;
+
+}
+.header {
+	font-size:50px;
+	font-family: algerian;
+	font color:#0c0c0c;
+    text-align: center;
+    margin top: 20px
+    padding-bottom:50px;
+}
+h2{
+ background-color: #378E92;
+ padding: 10px 10px;
+ margin: -10px -50px;
+ text-align:center;
+ color: #fff;
+}
+
+
+input[type=text]{
+ width: 98%;
+ height: 50px;
+ padding: 5px;
+ margin-bottom: 25px;
+ margin-top: 5px;
+border-radius:15px;
+ border: 2px solid #0c0c0c;
+ color: grey;
+ font-size: 16px;
+}
+input[type=password]{
+ width: 98%;
+border-radius:15px;
+height: 50px;
+ padding: 5px;
+ margin-bottom: 25px;
+ margin-top: 5px;
+ border: 2px solid #0c0c0c;
+ color: grey;
+ font-size: 16px;
+}
+
+label{
+ color: #378E92;
+ text-shadow: 0 1px 0 #fff;
+ font-size: 14px;
+ font-weight: bold;
+}
+
+input[type=submit]{
+ font-size: 16px;
+ background: #378E92 5%;
+ color: white;
+border-radius:8px;
+ font-weight: bold;
+ cursor: pointer;
+ width: 50%;
+ padding: 10px 0;
+ outline:none;
+}
+ 
